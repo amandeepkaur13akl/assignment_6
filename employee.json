@@ -1,0 +1,38 @@
+
+[
+    {
+      "name": "Alice Johnson",
+      "DOB": "1992-08-10",
+      "height": "5'6\"",
+      "city": "San Francisco",
+      "state": "California"
+    },
+    {
+      "name": "Bob Smith",
+      "DOB": "1988-03-25",
+      "height": "5'10\"",
+      "city": "Miami",
+      "state": "Florida"
+    },
+    {
+      "name": "Eva Martinez",
+      "DOB": "1995-11-18",
+      "height": "5'4\"",
+      "city": "Houston",
+      "state": "Texas"
+    },
+    {
+      "name": "David Wilson",
+      "DOB": "1990-06-03",
+      "height": "6'0\"",
+      "city": "Denver",
+      "state": "Colorado"
+    },
+    {
+      "name": "Grace Davis",
+      "DOB": "1987-09-15",
+      "height": "5'7\"",
+      "city": "Seattle",
+      "state": "Washington"
+    }
+  ]
